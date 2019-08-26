@@ -1,0 +1,91 @@
+/*Body element*/
+body{
+    background-color: #314866;
+    color:white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.meas_container{
+    background-color: #433A99
+}
+
+.fill-icon {
+    fill: green;
+}
+
+.row{
+    font-size: 30px;
+}
+
+.title{
+    font-size: 14px; 
+}
+
+.typingIcon{
+    padding: 5px;
+    height: 50px;
+}
+
+#content{
+    height: 120px;
+    background-color: #736454;
+    margin: 10px auto;
+    font-size: 30px;
+    overflow: hidden;
+    padding: 0 5px;
+    line-height: 40px;
+}
+
+.change{
+    height: 25px;
+    font-size: 16px;
+}
+
+#input{
+    background-color: #B6B4CC;
+    width: 100%;
+    font-size: 30px;
+    margin-top: 10px;
+    color: #000000;
+}
+
+.keyboard{
+    min-height: 200px;
+    max-height: 300px;
+    background: url("img/keyboard.png") no-repeat center;
+    background-size: contain;
+    margin-top: 10px;
+}
+
+.licenses{
+    text-align: center;
+    font-size: 10px;
+    padding: 10px;
+}
+
+.restart{
+    margin-top:10px;
+}
+
+.btn-primary{
+    background: #433A99;
+    border-color: #433A99;
+}
+
+.scoreDown, .scoreUP{
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 12px;
+}
+.scoreDown{
+    background: mediumvioletred;
+}
+
+.scoreUP{
+    background: greenyellow;
+    color: black;
+}
+
+.modal{
+    color: #000000;
+}
